@@ -1,2 +1,4 @@
 # hello-world
-emmm
+
+Tsuihao here.
+learning python...
